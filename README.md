@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏗️ Building Crack Detection System
 
 This is a web-based Crack Detection system built using **Django**, **TensorFlow**, and **HTML/CSS**. Users can upload images of buildings, and the model predicts whether there is a crack present or not.
@@ -125,12 +124,3 @@ crack_detection_env/
 - Deploy the app on a cloud platform
 
 ---
-
-## 👨‍💻 Author
-
-**Amogh Pathak**  
-📧 amogh9792@gmail.com  
-🔗 [GitHub](https://github.com/amogh9792)
-=======
-# crack_detection
->>>>>>> eae9db81001eb905de9013f6f9c15645580af79d
